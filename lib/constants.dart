@@ -7,7 +7,9 @@ var textColor= Colors.black;
 var textColorAddMeet= Colors.black;
 var primaryColor=Colors.green;
 var textColorButton= Colors.white;
+// ignore: non_constant_identifier_names
 var IconColorHome= Colors.black;
+// ignore: non_constant_identifier_names
 var IconColorAddMeet= Colors.grey[700];
 var drawerTextColor = TextStyle(
   color: Colors.grey[900],
