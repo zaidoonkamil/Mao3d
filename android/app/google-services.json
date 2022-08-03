@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140158681249",
+    "project_id": "mao3d-5661f",
+    "storage_bucket": "mao3d-5661f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140158681249:android:c82748174f15952415b0e0",
+        "android_client_info": {
+          "package_name": "com.example.mao3dd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140158681249-h3a3kfak3unpn4b34memea7l2gu1mnn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRmcTCsh3ui4dks6KXYw2ER7mcSRXlXLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140158681249-h3a3kfak3unpn4b34memea7l2gu1mnn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
